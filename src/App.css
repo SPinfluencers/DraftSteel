@@ -681,6 +681,10 @@ body, html {
     width: 100px;
   }
 
+  .landing-page {
+    text-align: center;
+  }
+
   .stat-block h2 {
     font-size: 1.5rem;
   }
