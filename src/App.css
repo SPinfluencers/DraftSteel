@@ -117,10 +117,12 @@ body {
   padding-top: 1rem;
 }
 
+/* // Landing Page  */
+
 .landing-page {
   text-align: center;
   padding: 10rem;
-  background-image: url('https://shorturl.at/oGQKz');
+  background-image: url('https://images.pexels.com/photos/443378/pexels-photo-443378.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
   background-size: cover;
   /* background-position: center; */
   color: #f59906;
@@ -297,19 +299,19 @@ body {
 
 .engineering-services-page {
   background-color: #f9f9f9;
-  padding: 1rem;
+  padding: 0.5rem;
   text-align: center;
   text-decoration: none;
 }
 
 .engineering-services-page h1 {
   font-size: 2.5rem;
-  color: #333;
+  color: #f39c12;
   text-decoration: none;
 }
 
 .services-background {
-  background: url('https://images.pexels.com/photos/12515071/pexels-photo-12515071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') no-repeat center center/cover;
+  background: url('https://images.pexels.com/photos/11667731/pexels-photo-11667731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') no-repeat center center/cover;
   padding: 8rem 0;
 }
 

@@ -73,7 +73,7 @@ const StructuralSteel = () => (
           <img src="https://shorturl.at/XLxGC" alt="Structural Connection Design" />
           <div className="steel-info">
             <h2>Structural Connection Design</h2>
-            <p>Cadd Steel Services provides accurate and dependable structural 
+            <p>Draft-Design Engineering Services provides accurate and dependable structural 
               steel detailing, Misc. steel detailing, structural 3D modelling, 
               connection design services, connection design and member design services, 
               analysis and design of structures, and more. One of the main areas of attention 
@@ -102,7 +102,7 @@ const StructuralSteel = () => (
         <div className="steel-block">
           <div className="steel-info">
             <h2>Take-off Jobs</h2>
-            <p>Caddsteel engineering services is committed to providing top-notch, 
+            <p>Draft-Design engineering services is committed to providing top-notch, 
               dependable structural steel estimating services and take-off 
               services for steel detailers, steel fabricators, steel erectors, 
               the steel industry, and construction companies. A one-stop 

@@ -1,13 +1,15 @@
 import { Link } from 'react-router-dom';
 import '../App.css';
-// import logo from '../imges/cadsteelfab.png'
+import logo from '../imges/draft.png'
 
 // Header Component
 const Header = () => (
   <header className="header">
     <nav className="navbar">
       <div className="logo">
-        <img src="/path-to-your-logo.png" alt="CaddSteel Engineering Services" className="logo-img" />
+      <Link to="/">
+        <img src={logo} className="logo-img" />
+      </Link>
       </div>
       <ul className="nav-links">
         <li><Link to="/">Home</Link></li>

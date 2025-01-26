@@ -15,7 +15,7 @@ const CareerPage = () => (
       </div>
       <div className="career-info">
         <h2>Why Work With Us?</h2>
-        <p>At CaddSteel Engineering, we are committed to fostering an environment where innovation, collaboration, and professional growth thrive. Join us and contribute to groundbreaking projects with a global impact.</p>
+        <p>At Draft-Design Engineering we are committed to fostering an environment where innovation, collaboration, and professional growth thrive. Join us and contribute to groundbreaking projects with a global impact.</p>
         <h3>Open Positions</h3>
         <ul>
           <li>Structural Engineer</li>

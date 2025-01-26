@@ -18,7 +18,7 @@ const AboutUsPage = () => (
       We constantly ensure that our work meets our clients 
       expectations for quality, timeliness, and cost. 
       To carry out the project and make the job efficient 
-      on both sides, we have a pretty straightforward plan. 
+      on both sides, we have a pretty straight forward plan. 
       The effectiveness of the process and project depends 
       on frequent and powerful communication at both sides.
       </p></p>
@@ -33,7 +33,7 @@ const AboutUsPage = () => (
       <p>Our goal has always been to offer extremely accurate 
         drawings at a reasonable cost. Our detailers swiftly produce 
         drawings while upholding correctness and precision. When you 
-        choose Dreamcad, you are selecting expert quality, effectiveness, 
+        choose DRAFT-DESIGN, you are selecting expert quality, effectiveness, 
         and knowledge</p>
     </div>
 

@@ -6,11 +6,11 @@ import '../App.css';
 const LandingPage = () => (
   <div>
     <div className="landing-page">
-    <h1>Welcome to CaddSteel Engineering Services</h1>
+    <h1>Welcome to DraftDesign Engineering Services</h1>
     <p>Your partner in success.</p>
     <div className="stats-container">
       <div className="stat-block">
-        <h2>50+</h2>
+        <h2>25+</h2>
         <p>Engineers</p>
       </div>
       <div className="stat-block">
