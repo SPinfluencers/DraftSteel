@@ -33,7 +33,7 @@ const AboutUsPage = () => (
       <p>Our goal has always been to offer extremely accurate 
         drawings at a reasonable cost. Our detailers swiftly produce 
         drawings while upholding correctness and precision. When you 
-        choose DRAFT-DESIGN, you are selecting expert quality, effectiveness, 
+        choose DRAFT-STEEL, you are selecting expert quality, effectiveness, 
         and knowledge</p>
     </div>
 

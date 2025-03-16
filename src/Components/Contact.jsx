@@ -8,7 +8,7 @@ const ContactPage = () => (
       <div className="contact-container">
         <div className="contact-block">
           <h2>Email Us</h2>
-          <p>Email: <a href="mailto:info@business.com">info@draftdesign.com</a></p>
+          <p>Email: <a href="mailto:info@business.com">info@draftsteel.com</a></p>
         </div>
         <div className="contact-block">
           <h2>Call Us</h2>

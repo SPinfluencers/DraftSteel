@@ -26,13 +26,13 @@ const Footer = () => (
       </div>
       <div className="footer-section contact-us">
         <h4>Contact Us</h4>
-        <p>Email: info@draftdesign.com</p>
+        <p>Email: info@draftsteel.com</p>
         <p>Phone: +123 456 7890</p>
         <p>Address: 19, Grant Street, Liden, NJ-07036</p>
       </div>
       <div className="footer-section about-company">
         <h4>About Company</h4>
-        <p>DRAFT-DESIGN is a leading provider of innovative solutions to help businesses succeed. Our mission is to deliver value and drive growth.</p>
+        <p>DRAFT-STEEL is a leading provider of innovative solutions to help businesses succeed. Our mission is to deliver value and drive growth.</p>
         <div className="social-media">
           <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">Facebook</a> |
           <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">Twitter</a> |
